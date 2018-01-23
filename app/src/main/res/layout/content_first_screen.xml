@@ -19,11 +19,11 @@
 
 
 
-    <pl.droidsonroids.gif.GifImageView
-       android:layout_height="match_parent"
-        android:layout_width="match_parent"
+    <!--<pl.droidsonroids.gif.GifImageView-->
+       <!--android:layout_height="match_parent"-->
+        <!--android:layout_width="match_parent"-->
 
-        />
+        <!--/>-->
 
     <FrameLayout
         android:id="@+id/firstScreen"
